@@ -1,1 +1,3 @@
 first text
+text from clone2
+text from clone2
